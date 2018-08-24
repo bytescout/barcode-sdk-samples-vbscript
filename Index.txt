@@ -1,5 +1,4 @@
-## Index of source code examples
-
+## Index of source code examples:
 
 \2 Captions for Barcode
 \Add Barcode to PDF
