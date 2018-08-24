@@ -1,0 +1,20 @@
+## Index of source code examples
+
+
+\2 Captions for Barcode
+\Add Barcode to PDF
+\Add To Image
+\Add To New PDF
+\Add To TIFF
+\Barcode from Excel
+\BarcodeSize
+\BarCodeSize In Inches
+\Batch generation
+\Caption Font
+\Change Fore and Back Color
+\Custom PDF417 configuration
+\Generate Barcodes From Text File
+\HelloWorld
+\Monochrome Bitmap
+\PDF417
+\QR Code With Image
