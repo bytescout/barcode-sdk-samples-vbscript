@@ -1,6 +1,7 @@
 ## Index of source code examples:
 
 \Add Barcode to PDF
+\Add barcodes To Image
 \Add barcodes To New PDF
 \Add barcodes To TIFF
 \Batch barcode generation
