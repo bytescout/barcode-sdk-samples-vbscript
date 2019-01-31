@@ -1,19 +1,19 @@
 ## Index of source code examples:
 
 \Add Barcode to PDF
-\Add barcodes To Image
-\Add barcodes To New PDF
-\Add barcodes To TIFF
-\Batch barcode generation
+\Add Barcodes To Image
+\Add Barcodes To New PDF
+\Add Barcodes To TIFF
+\Batch Barcode Generation
 \Caption Font
 \Change Fore and Back Color
-\create Barcode from Excel
-\Custom PDF417 configuration
-\Generate barcode
+\Create Barcode from Excel
+\Custom PDF417 Configuration
+\Generate Barcode
 \Generate Barcodes From Text File
 \Monochrome Bitmap
-\PDF417 barcode
-\QR Code barcode With Image inside
+\PDF417 Barcode
+\QR Code Barcode With Image Inside
 \Set 2 Captions for Barcode
 \Set Bar Code Size In Inches
-\Set Barcode size
+\Set Barcode Size
