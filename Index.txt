@@ -11,6 +11,7 @@
 \Create Barcode from Excel
 \Custom PDF417 Configuration
 \Generate Barcode
+\Generate barcode with multiline caption
 \Generate Barcodes From Text File
 \Monochrome Bitmap
 \PDF417 Barcode
