@@ -10,6 +10,7 @@
 \Command Line Use
 \Create Barcode from Excel
 \Custom PDF417 Configuration
+\Display License Info
 \Generate Barcode
 \Generate barcode with multiline caption
 \Generate Barcodes From Text File
