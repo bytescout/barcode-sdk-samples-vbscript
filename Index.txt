@@ -16,6 +16,7 @@
 \Generate Barcodes From Text File
 \Monochrome Bitmap
 \PDF417 Barcode
+\Print Barcodes
 \QR Code Barcode With Image Inside
 \Set 2 Captions for Barcode
 \Set Bar Code Size In Inches
